@@ -31,7 +31,7 @@ A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
 **Step 1**
 
 
-    pkg update && pkg update
+    pkg update && pkg upgrade
 
 **Step 2**
     
