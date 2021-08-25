@@ -21,7 +21,7 @@ A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
   
 **Step 4**
     
-    python3 ipd.py
+    python3 id.py
     
     
 **Now watch this video**  
@@ -61,6 +61,6 @@ A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
   
 **Step 8**
     
-    python ipd.py
+    python id.py
     
 ![my](https://user-images.githubusercontent.com/87734962/129163409-d8580e4b-91ce-4576-8e7b-f2343b45b0e5.png)
